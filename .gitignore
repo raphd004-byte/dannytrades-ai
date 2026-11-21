@@ -1,0 +1,11 @@
+﻿.env
+*.env
+*.log
+*.csv
+track_record.json
+set
+config.local.*
+__pycache__/
+*.pyc
+venv/
+.venv/
